@@ -4,7 +4,13 @@
 
 ### aqui você encontrará:
 
-- Calculadora Portugol
+##### 1 Portugol :
 
-  ... (a completar)
+- Gerador de tabuada
+- Tabuada do 9
+- Matriz
+- String
+- Menu
+
+##### Java
 
